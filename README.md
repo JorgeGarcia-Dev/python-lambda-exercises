@@ -1,6 +1,6 @@
 ![Imagen_Python](images/Banner_Python.png)
 
-#Funciones Lambda
+# Funciones Lambda
 
 * **A grandes rasgos, las funciones Lambda son funciones anónimas que solo pueden contener una expresión.**
 
